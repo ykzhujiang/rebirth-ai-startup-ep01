@@ -1,0 +1,33 @@
+{
+  "project": "rebirth-ai-startup-ep01",
+  "created_at": "2026-04-07T23:46:06.055035+00:00",
+  "github_repo": "ykzhujiang/rebirth-ai-startup-ep01",
+  "config": {
+    "theme": "2026年AI创业者清算破产后重生回2021年GPT-3发布之际，决心改写命运。15秒钩子：签字绝望→时空扭曲→发现回到2021→燃起斗志。",
+    "genre": "drama",
+    "style": "realistic",
+    "duration": 60,
+    "characters": 2,
+    "setting": null,
+    "ratio": "9:16",
+    "episode": "ep01"
+  },
+  "status": "not_started",
+  "steps": {
+    "step1b": {
+      "status": "not_started"
+    },
+    "step1.5": {
+      "status": "not_started"
+    },
+    "step3": {
+      "status": "not_started"
+    },
+    "step4": {
+      "status": "not_started"
+    },
+    "step6": {
+      "status": "not_started"
+    }
+  }
+}
