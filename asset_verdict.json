@@ -1,0 +1,51 @@
+{
+  "verdict": "PASS",
+  "style": "realistic",
+  "assets": [
+    {
+      "label": "林峰",
+      "type": "character",
+      "verdict": "PASS",
+      "style_ok": true,
+      "setting_match": true,
+      "description_match": 5,
+      "quality_ok": true,
+      "issues": [],
+      "retry_suggestion": null
+    },
+    {
+      "label": "赵强",
+      "type": "character",
+      "verdict": "PASS",
+      "style_ok": true,
+      "setting_match": true,
+      "description_match": 5,
+      "quality_ok": true,
+      "issues": [],
+      "retry_suggestion": null
+    },
+    {
+      "label": "清算室-夜",
+      "type": "scene",
+      "verdict": "PASS",
+      "style_ok": true,
+      "setting_match": true,
+      "description_match": 5,
+      "quality_ok": true,
+      "issues": [],
+      "retry_suggestion": null
+    },
+    {
+      "label": "简陋办公室-昼",
+      "type": "scene",
+      "verdict": "PASS",
+      "style_ok": true,
+      "setting_match": true,
+      "description_match": 5,
+      "quality_ok": true,
+      "issues": [],
+      "retry_suggestion": null
+    }
+  ],
+  "summary": "4/4 assets passed"
+}
